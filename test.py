@@ -70,4 +70,5 @@ for i in range(3):#0,1,2 for range(1,3) = 1,2 => i,i+1,i+2...j-1
 raw_input("Press any key to exit..")
 print("Done with program execution..")
 # Modifying this comment to test post-commit build action of the Jenkins build
+print ("Attempting another try to get the SCm polling working")
 
